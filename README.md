@@ -29,6 +29,6 @@ npm install
 npm start
 The server will run at http://localhost:3000.
 
-#Instructions on How to check api endpoints:-
+I done the above database part in my local mysql workbench 8.0
 
     
