@@ -29,6 +29,9 @@ npm install
 npm start
 The server will run at http://localhost:3000.
 
+5.DBMS
+Change the password to your sql account password and create the tables(code mentioned in instructions.pdf).
+
 I done the above database part in my local mysql workbench 8.0
 
     
